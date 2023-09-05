@@ -1,3 +1,4 @@
+#Program7 
 #Add 5 to number using lambda func
 x=lambda a:a+5
 print("After adding 5 to given number(5)",x(5))
