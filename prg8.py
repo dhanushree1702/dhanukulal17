@@ -1,3 +1,4 @@
+#Program8
 #Print sum of the numbers from three diff list using map func
 l1=[1,2,3,4]
 l2=[1,2,3,4]
